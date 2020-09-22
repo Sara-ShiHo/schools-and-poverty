@@ -1,5 +1,5 @@
 # schools-and-poverty
-R data cleaning, analysis and visualization exercise
+A simple data cleaning, analysis and visualization exercise using R
 
  - Impute or remove missing data
  - Alter or remove outliers that don't make sense
